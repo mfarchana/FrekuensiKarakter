@@ -1,2 +1,2 @@
 # FrekuensiKarakter
-Mencari frekuensi karakter
+Mencari frekuensi karakter dengan python
