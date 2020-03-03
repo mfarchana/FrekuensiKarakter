@@ -1,0 +1,2 @@
+# FrekuensiKarakter
+Mencari frekuensi karakter
